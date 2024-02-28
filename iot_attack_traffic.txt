@@ -1,0 +1,14 @@
+all_traffic
+-
+index pk int
+origin_port int
+response_port int
+proto varchar
+service varchar
+traffic_pattern varchar FK >- traffic_patterns.pattern
+
+traffic_patterns
+-
+index pk int 
+pattern varchar 
+attack? varchar
