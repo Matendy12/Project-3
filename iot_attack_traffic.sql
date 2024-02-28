@@ -1,4 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 
@@ -24,5 +24,6 @@ CREATE TABLE "traffic_patterns" (
 );
 
 ALTER TABLE "all_traffic" ADD CONSTRAINT "fk_all_traffic_traffic_pattern" FOREIGN KEY("traffic_pattern")
-REFERENCES "traffic_patterns" ("pattern");
+REFERENCES "traffic_pattern" ("pattern");
+
 
