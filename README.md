@@ -53,5 +53,5 @@ UCI Machine Learning Repository. (2024).
 RT-IoT2022.  https://archive.ics.uci.edu/dataset/942/rt-iot2022
 
 ### ERD
-This entity relationship diagram details the composition of the SQL database containing our data
+This entity relationship diagram details the composition of the SQL database containing our data. We utilized two tables to store the traffic statistics and detected traffic patterns.
 ![image](https://github.com/Matendy12/Project-3/assets/143640261/fd165dc1-2541-4245-8639-090e3c758af1)
