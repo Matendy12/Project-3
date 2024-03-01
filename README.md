@@ -54,4 +54,4 @@ RT-IoT2022.  https://archive.ics.uci.edu/dataset/942/rt-iot2022
 
 ### ERD
 This entity relationship diagram details the composition of the SQL database containing our data
-<img width="987" alt="ERD" src="https://github.com/Matendy12/Project-3/assets/147276040/6a6fc6ee-8c17-4189-a1e5-d88faee45c42"
+![image](https://github.com/Matendy12/Project-3/assets/143640261/fd165dc1-2541-4245-8639-090e3c758af1)
