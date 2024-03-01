@@ -29,3 +29,6 @@ https://archive.ics.uci.edu/dataset/942/rt-iot2022
 ### Database
 
 <img width="616" alt="Screenshot 2024-02-20 at 8 36 53 PM" src="https://github.com/Matendy12/Project-3/assets/147276040/a786e7b2-a0f3-4297-b5bc-d77b919de038">
+
+### DISCLAIMER
+This repo was published for educational purpose only. Copyright 2023-2024 edX Boot Camps LLC. All rights reserved.
