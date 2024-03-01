@@ -11,4 +11,4 @@ traffic_patterns
 -
 index pk int 
 pattern varchar 
-attack? varchar
+type varchar

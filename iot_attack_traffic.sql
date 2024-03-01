@@ -17,13 +17,11 @@ CREATE TABLE "all_traffic" (
 CREATE TABLE "traffic_patterns" (
     "index" int   NOT NULL,
     "pattern" varchar   NOT NULL,
-    "attack?" varchar   NOT NULL,
+    "type" varchar   NOT NULL,
     CONSTRAINT "pk_traffic_patterns" PRIMARY KEY (
         "index"
      )
 );
 
 ALTER TABLE "all_traffic" ADD CONSTRAINT "fk_all_traffic_traffic_pattern" FOREIGN KEY("traffic_pattern")
-REFERENCES "traffic_pattern" ("pattern");
-
-
+REFERENCES "traffic_patterns" ("pattern");

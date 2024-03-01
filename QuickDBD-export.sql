@@ -17,7 +17,7 @@ CREATE TABLE "all_traffic" (
 CREATE TABLE "traffic_patterns" (
     "index" int   NOT NULL,
     "pattern" varchar   NOT NULL,
-    "attack?" varchar   NOT NULL,
+    "type" varchar   NOT NULL,
     CONSTRAINT "pk_traffic_patterns" PRIMARY KEY (
         "index"
      )
