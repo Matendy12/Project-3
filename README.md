@@ -3,46 +3,42 @@
 
 IoT IN CYBERSECURITY
 
-  Internet of Things (IoT) devices are computerized Internet-connected objects, such as networked security cameras, smart refrigerators, and WiFi- 
-  capable automobiles.  IoT security is the process of securing these devices and ensuring they do not introduce threats into a network.
+Internet of Things (IoT) devices are computerized Internet-connected objects, such as networked security cameras, smart refrigerators, and WiFi- 
+capable automobiles.  IoT security is the process of securing these devices and ensuring they do not introduce threats into a network.
 
 TYPES OF IoT SECURITY
 
-  Network Security: Users need to protect their devices against unauthorized access and potential exploitation.
-  Embedded: Nano agents provide on-device security for IoT devices. 
-  Firmware Assessment: Firmware security starts with assessing the firmware of a protected IoT device.
+Network Security: Users need to protect their devices against unauthorized access and potential exploitation.
+Embedded: Nano agents provide on-device security for IoT devices. 
+Firmware Assessment: Firmware security starts with assessing the firmware of a protected IoT device.
 
 INDUSTRIES THAT NEED IoT SECURITY
 
-  Large enterprises, industrial, healthcare and device manufacturers
+Large enterprises, industrial, healthcare and device manufacturers
 
 INTENT OF PROJECT
 
-  Abnormal Distribution's intent is to aid cybersecurity defenders (aka Blue Teams) in preventing attacks by producing IDS (Intrusion 
-  Detection System) rules to detect malicious traffic against common IoT (Internet of Things) devices. The primary outcome of our team's work in 
-  the data engineering track for Project 3 is an interactive Python (Jupyter notebook) using Pandas.  The notebook serves as the core code 
-  delivery, employing ETL workflows to optimize the dataset with the objective of generating Suricata rules.
+Abnormal Distribution's intent is to aid cybersecurity defenders (aka Blue Teams) in preventing attacks by producing IDS (Intrusion 
+Detection System) rules to detect malicious traffic against common IoT (Internet of Things) devices. The primary outcome of our team's work in 
+the data engineering track for Project 3 is an interactive Python (Jupyter notebook) using Pandas.  The notebook serves as the core code 
+delivery, employing ETL workflows to optimize the dataset with the objective of generating Suricata rules.
   
 ANALYZING DATA USING ETL METHOD
 
-Do you want to gather and analyze IoT data using the ETL method?  You got it!
-  Locate a dataset.
-  Use Pandas (Jupyter notebook) to extract raw data from the dataset and to transform raw data into a readable table.
-    This can help sort and prioritize critical threats to be eliminated.
-  The readable table can then be loaded into a PostgreSQL database.
+We used ETL methodologies to make the raw data more readable, clear, and usable before loading it into our PostgreSQL database. Several unnecessary columns were removed and others were renamed to clean the dataset.
   
 ETHICS
 
 Privacy and security concerns
 
-As IoT devices collect vast amounts of personal and sensitive information, the risk of unauthorized access, data breaches, and surveillance increases.  Individuals may unknowingly share their personal data, leading to potential misuse or exploitation.
+As IoT devices collect vast amounts of personal and sensitive information, the risk of unauthorized access, data breaches, and surveillance increases. Individuals may unknowingly share their personal data, leading to potential misuse or exploitation. Our project helps device owners prevent attacks and protect sensitive data that may be stored on them.
 
-CITATIONS
+REFERENCES
 
 Cloudflare.  What is IoT security?
 https://www.cloudflare.com/learning/security/glossary/iot-security/#:~:text=Internet%20of%20Things%20(IoT)%20devices%20are%20computerized%20Internet%2Dconnected,introduce%20threats%20into%20a%20network
 
-Check Point Solutions. (2024).
+Checkpoint Solutions. (2024).
 https://www.checkpoint.com/cyber-hub/network-security/what-is-iot-security/
 
 Medium. (2023).
