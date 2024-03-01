@@ -17,10 +17,10 @@ INDUSTRIES THAT NEED IOT SECURITY
 
 INTENT OF PROJECT
 
-  Abnormal Distribution's intent is to aid cybersecurity defenders (aka Blue Teams) in preventing botnet attacks by producing IDS (Intrusion 
-  Detection System) rules to detect malicious traffic against common IoT (Internet of Things) devices. Botnet attacks occur when a large number of 
-  machines are taken over by an attacker, turning said devices into “zombie bots” to do their bidding. Such as stealing data, sending large 
-  quantities of spam and phishing emails, or launching massive DDoS (distributed denial of service) attacks.
+  Abnormal Distribution's intent is to aid cybersecurity defenders (aka Blue Teams) in preventing attacks by producing IDS (Intrusion 
+  Detection System) rules to detect malicious traffic against common IoT (Internet of Things) devices. The primary outcome of our team's work in 
+  the data engineering track for Project 3 is an interactive Python (Jupyter notebook) using Pandas.  The notebook serves as the core code 
+  delivery, employing ETL workflows to optimize the dataset with the objective of generating Suricata rules.
   
 ANALYZING DATA USING ETL METHOD
 
