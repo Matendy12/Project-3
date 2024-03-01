@@ -3,7 +3,7 @@
 
 IoT IN CYBERSECURITY
 
-Internet of Things (IoT) devices are computerized Internet-connected objects, such as networked security cameras, smart refrigerators, and WiFi- 
+Internet of Things (IoT) devices are computerized Internet-connected objects, such as networked security cameras, smart refrigerators, and WiFi-
 capable automobiles.  IoT security is the process of securing these devices and ensuring they do not introduce threats into a network.
 
 TYPES OF IoT SECURITY
@@ -14,7 +14,7 @@ Firmware Assessment: Firmware security starts with assessing the firmware of a p
 
 INDUSTRIES THAT NEED IoT SECURITY
 
-Large enterprises, industrial, healthcare and device manufacturers
+Large enterprises, industrial, healthcare and device manufacturers. Really, any industry that utilized IoT devices.
 
 INTENT OF PROJECT
 
