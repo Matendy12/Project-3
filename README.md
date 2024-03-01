@@ -37,7 +37,7 @@ Privacy and security concerns
 
 As IoT devices collect vast amounts of personal and sensitive information, the risk of unauthorized access, data breaches, and surveillance increases.  Individuals may unknowingly share their personal data, leading to potential misuse or exploitation.
 
-CITING
+CITATIONS
 
 Cloudflare.  What is IoT security?
 https://www.cloudflare.com/learning/security/glossary/iot-security/#:~:text=Internet%20of%20Things%20(IoT)%20devices%20are%20computerized%20Internet%2Dconnected,introduce%20threats%20into%20a%20network
