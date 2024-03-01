@@ -1,8 +1,8 @@
-## Project-3
+# Project-3
 
 Abnormal Distribution's intent is to aid cybersecurity defenders (aka, Blue Teams) in preventing botnet attacks by producing IDS (intrusion detection system) rules to detect malicious traffic against common IoT (Internet of Things) devices. Botnet attacks occur when a large number of machines are taken over by an attacker, turning said devices into “zombie bots” to do their bidding… Such as stealing data, sending large quantities of spam and phishing emails, or launching massive DDoS (distributed denial of service) attacks.
   
-# ANALYZING DATA USING ETL METHOD
+### ANALYZING DATA USING ETL METHOD
 
 Do you want to gather and analyze botnet data using the ETL method?  You got it!
   Locate a dataset.
@@ -10,11 +10,11 @@ Do you want to gather and analyze botnet data using the ETL method?  You got it!
     This can help sort which botnet is benign or malicious, therefore prioritize critical threats to be eliminated.
   The readable table can then be loaded into a PGAdmin database.
   
-ETHICS
+### ETHICS
 
 Botnets are considered unethical because they are created by cyber criminals to misuse data.  This project is not unethical because data was only used to analyze, transform and load into a database to store for current and/or future use.
 
-CITING/Link to dataset
+CITING/LINK TO DATASET
 
 https://archive.ics.uci.edu/dataset/942/rt-iot2022
 
