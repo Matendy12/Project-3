@@ -14,9 +14,9 @@ Do you want to gather and analyze botnet data using the ETL method?  You got it!
 
 Botnets are considered unethical because they are created by cyber criminals to misuse data.  This project is not unethical because data was only used to analyze, transform and load into a database to store for current and/or future use.
 
-### CITING/LINK TO DATASET
+### RESOURCES
 
-https://archive.ics.uci.edu/dataset/942/rt-iot2022
+IoT database: https://archive.ics.uci.edu/dataset/942/rt-iot2022
 
 ### Raw Data
 
