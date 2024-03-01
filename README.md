@@ -14,11 +14,9 @@ ETHICS
 
 Botnets are considered unethical because they are created by cyber criminals to misuse data.  This project is not unethical because data was only used to analyze, transform and load into a database to store for current and/or future use.
 
-CITING
+CITING/Link to dataset
 
-EC Council Exchange. (2023). 
-Botnet Attacks and Their Prevention Techniques Explained.  
-https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/botnet-attack prevention/#:~:text=Botnet%20attacks%20typically%20involve%20stealing,taken%2  0over%20by%20the%20attacker
+https://archive.ics.uci.edu/dataset/942/rt-iot2022
 
 Raw Data
 
