@@ -23,7 +23,7 @@ IoT database: https://archive.ics.uci.edu/dataset/942/rt-iot2022
 <img width="987" alt="Screenshot 2024-02-20 at 8 24 36 PM" src="https://github.com/Matendy12/Project-3/assets/147276040/6a6fc6ee-8c17-4189-a1e5-d88faee45c42">
 
 ### Coding
-Jupyter notebooks
+Jupyter notebooks:
 
 Code/Part 1 - ETL.ipynb
 
