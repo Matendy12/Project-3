@@ -2,11 +2,7 @@
 
 BOTNET ATTACKS
 
-Botnet attacks occur when large numbers of machines have been taken over by an attacker. Each machine is turned into a “bot” or “zombie”. Botnets have been around since the 1990’s and continue to grow increasingly fast. Names of some past botnets: Bagle, Storm, Kraken, and Mantis.
-	Types of attacks 
-  	Botnet attacks typically involve stealing data, sending large quantities of spam and phishing emails, or launching massive DDoS (distributed denial of service) 
-    attacks.
-  Several common attacks are DDoS (distributed denial of service), credential theft, spamming and phishing and ad fraud.
+Abnormal Distribution's intent is to aid cybersecurity defenders (aka, Blue Teams) in preventing botnet attacks by producing IDS (intrusion detection system) rules to detect malicious traffic against common IoT (Internet of Things) devices. Botnet attacks occur when a large number of machines are taken over by an attacker, turning said devices into “zombie bots” to do their bidding… Such as stealing data, sending large quantities of spam and phishing emails, or launching massive DDoS (distributed denial of service) attacks.
   
 ANALYZING DATA USING ETL METHOD
 
