@@ -24,6 +24,21 @@ This repo is our team's deliverable for TCC's data analysis bootcamp Project 3, 
   * readme: documentation explaining what's in the documentation directory
 * README.md: you are here
 
+## Intent
+
+Abnormal Distribution's intent is to aid cybersecurity defenders (aka Blue Teams) in preventing attacks by producing IDS (Intrusion 
+Detection System) rules to detect malicious traffic against common IoT (Internet of Things) devices. The primary outcome of our team's work in 
+the data engineering track for Project 3 is two interactive Python Jupyter notebooks.  The notebooks serves as the core code 
+delivery, employing ETL workflows to optimize the dataset with the objective of generating Suricata rules.
+
+## ETL Methods
+
+We used ETL methodologies to make the raw data more readable, clear, and usable before loading it into our PostgreSQL database. Several unnecessary columns were removed and others were renamed to clean the dataset.
+
+## ERD
+This entity relationship diagram details the composition of the SQL database containing our data. We utilized two tables to store the traffic statistics and detected traffic patterns.
+![image](https://github.com/Matendy12/Project-3/assets/143640261/fd165dc1-2541-4245-8639-090e3c758af1)
+
 ## Background
 
 IDS
@@ -50,21 +65,6 @@ ETHICS
 Privacy and security concerns
 
 As IoT devices collect vast amounts of personal and sensitive information, the risk of unauthorized access, data breaches, and surveillance increases. Individuals may unknowingly share their personal data, leading to potential misuse or exploitation. Our project helps device owners prevent attacks and protect sensitive data that may be stored on them.
-
-## Intent
-
-Abnormal Distribution's intent is to aid cybersecurity defenders (aka Blue Teams) in preventing attacks by producing IDS (Intrusion 
-Detection System) rules to detect malicious traffic against common IoT (Internet of Things) devices. The primary outcome of our team's work in 
-the data engineering track for Project 3 is two interactive Python Jupyter notebooks.  The notebooks serves as the core code 
-delivery, employing ETL workflows to optimize the dataset with the objective of generating Suricata rules.
-
-## ETL Methods
-
-We used ETL methodologies to make the raw data more readable, clear, and usable before loading it into our PostgreSQL database. Several unnecessary columns were removed and others were renamed to clean the dataset.
-
-## ERD
-This entity relationship diagram details the composition of the SQL database containing our data. We utilized two tables to store the traffic statistics and detected traffic patterns.
-![image](https://github.com/Matendy12/Project-3/assets/143640261/fd165dc1-2541-4245-8639-090e3c758af1)
 
 ## References
 
