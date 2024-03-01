@@ -1,22 +1,56 @@
 # Project-3
 
-Abnormal Distribution's intent is to aid cybersecurity defenders (aka, Blue Teams) in preventing botnet attacks by producing IDS (intrusion detection system) rules to detect malicious traffic against common IoT (Internet of Things) devices. Botnet attacks occur when a large number of machines are taken over by an attacker, turning said devices into “zombie bots” to do their bidding… Such as stealing data, sending large quantities of spam and phishing emails, or launching massive DDoS (distributed denial of service) attacks.
-  
-### ANALYZING DATA USING ETL METHOD
+IOT IN CYBERSECURITY
 
-Do you want to gather and analyze botnet data using the ETL method?  You got it!
+  Internet of Things (IoT) devices are computerized Internet-connected objects, such as networked security cameras, smart refrigerators, and WiFi- 
+  capable automobiles.  IoT security is the process of securing these devices and ensuring they do not introduce threats into a network.
+
+TYPES OF IOT SECURITY
+
+  Network Security: Users need to protect their devices against unauthorized access and potential exploitation.
+  Embedded: Nano agents provide on-device security for IoT devices. 
+  Firmware Assessment: Firmware security starts with assessing the firmware of a protected IoT device.
+
+INDUSTRIES THAT NEED IOT SECURITY
+
+  Large enterprises, industrial, healthcare and device manufacturers
+
+INTENT OF PROJECT
+
+  Abnormal Distribution's intent is to aid cybersecurity defenders (aka Blue Teams) in preventing botnet attacks by producing IDS (Intrusion 
+  Detection System) rules to detect malicious traffic against common IoT (Internet of Things) devices. Botnet attacks occur when a large number of 
+  machines are taken over by an attacker, turning said devices into “zombie bots” to do their bidding. Such as stealing data, sending large 
+  quantities of spam and phishing emails, or launching massive DDoS (distributed denial of service) attacks.
+  
+ANALYZING DATA USING ETL METHOD
+
+Do you want to gather and analyze IoT data using the ETL method?  You got it!
   Locate a dataset.
   Use Pandas (Jupyter notebook) to extract raw data from the dataset and to transform raw data into a readable table.
-    This can help sort which botnet is benign or malicious, therefore prioritize critical threats to be eliminated.
+    This can help sort and prioritize critical threats to be eliminated.
   The readable table can then be loaded into a PGAdmin database.
   
-### ETHICS
+ETHICS
 
-Botnets are considered unethical because they are created by cyber criminals to misuse data.  This project is not unethical because data was only used to analyze, transform and load into a database to store for current and/or future use.
+Privacy and security concerns
 
-### RESOURCES
+As IoT devices collect vast amounts of personal and sensitive information, the risk of unauthorized access, data breaches, and surveillance increases.  Individuals may unknowingly share their personal data, leading to potential misuse or exploitation.
 
-IoT database: https://archive.ics.uci.edu/dataset/942/rt-iot2022
+CITING
+
+Cloudflare.  What is IoT security?
+https://www.cloudflare.com/learning/security/glossary/iot-security/#:~:text=Internet%20of%20Things%20(IoT)%20devices%20are%20computerized%20Internet%2Dconnected,introduce%20threats%20into%20a%20network
+
+Check Point Solutions. (2024).
+https://www.checkpoint.com/cyber-hub/network-security/what-is-iot-security/
+
+Medium. (2023).
+What are the potential ethical issues arising from IoT deployment?
+https://arunraj444001.medium.com/what-are-the-potential-ethical-issues-arising-from-iot-deployment-9807cceffe39#:~:text=Privacy%20and%20Data%20Security%20Concerns&text=As%20IoT%20devices%20collect%20vast,to%20potential%20misuse%20or%20exploitation
+
+UCI Machine Learning Repository. (2024). 
+RT-IoT2022.  https://archive.ics.uci.edu/dataset/942/rt-iot2022
+
 
 ### Raw Data
 
