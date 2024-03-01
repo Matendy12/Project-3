@@ -62,7 +62,11 @@ delivery, employing ETL workflows to optimize the dataset with the objective of 
 
 We used ETL methodologies to make the raw data more readable, clear, and usable before loading it into our PostgreSQL database. Several unnecessary columns were removed and others were renamed to clean the dataset.
 
-REFERENCES
+## ERD
+This entity relationship diagram details the composition of the SQL database containing our data. We utilized two tables to store the traffic statistics and detected traffic patterns.
+![image](https://github.com/Matendy12/Project-3/assets/143640261/fd165dc1-2541-4245-8639-090e3c758af1)
+
+## References
 
 UCI Machine Learning Repository. (2024). 
 RT-IoT2022.  https://archive.ics.uci.edu/dataset/942/rt-iot2022
@@ -76,9 +80,3 @@ https://www.checkpoint.com/cyber-hub/network-security/what-is-iot-security/
 Medium. (2023).
 What are the potential ethical issues arising from IoT deployment?
 https://arunraj444001.medium.com/what-are-the-potential-ethical-issues-arising-from-iot-deployment-9807cceffe39#:~:text=Privacy%20and%20Data%20Security%20Concerns&text=As%20IoT%20devices%20collect%20vast,to%20potential%20misuse%20or%20exploitation
-
-## ERD
-This entity relationship diagram details the composition of the SQL database containing our data. We utilized two tables to store the traffic statistics and detected traffic patterns.
-![image](https://github.com/Matendy12/Project-3/assets/143640261/fd165dc1-2541-4245-8639-090e3c758af1)
-
-## 
