@@ -2,7 +2,7 @@
 
 Abnormal Distribution's intent is to aid cybersecurity defenders (aka, Blue Teams) in preventing botnet attacks by producing IDS (intrusion detection system) rules to detect malicious traffic against common IoT (Internet of Things) devices. Botnet attacks occur when a large number of machines are taken over by an attacker, turning said devices into “zombie bots” to do their bidding… Such as stealing data, sending large quantities of spam and phishing emails, or launching massive DDoS (distributed denial of service) attacks.
   
-ANALYZING DATA USING ETL METHOD
+#ANALYZING DATA USING ETL METHOD
 
 Do you want to gather and analyze botnet data using the ETL method?  You got it!
   Locate a dataset.
