@@ -21,6 +21,7 @@ This repo is our team's deliverable for TCC's data analysis bootcamp Project 3, 
   * ERD.sql: Entity relationship diagram in PostgreSQL format for database ingestion
   * ERD.txt: Entity relationship diagram in txt format
   * Project 3 proposal.docx: Team proposal for TCC DA bootcamp Project 3
+  * Project 3 Powerpoint: group preso slide deck
   * readme: documentation explaining what's in the documentation directory
 * README.md: you are here
 
