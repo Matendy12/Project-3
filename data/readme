@@ -1,2 +1,2 @@
-The filder contains the data source for our project. It came from UC Irvine's dataset collection:
+The filder contains the data source for our project and a basic rules file containing signatures for all traffic patterns. It came from UC Irvine's dataset collection:
 https://archive.ics.uci.edu/dataset/942/rt-iot2022
